@@ -8,6 +8,7 @@ Projects, resources, and tutorials that take code-server to the next level. Look
 - [code-server k3s: code-server on a Raspberry Pi 4B Cluster](https://github.com/kcalmond/code-server-k3s)
 - [code-server-azure](https://github.com/bpmct/code-server-azure): Deploy code-server on Azure App Service
 - [code-server-heroku](https://github.com/bpmct/code-server-heroku): Deploy code-server on Heroku
+- [code-server on Windows, Mac or Linux with Cloud Seeder](https://ipv6.rs/cloudseeder): Deploy and management code-server with a click on your Desktop
 
 ## Kubernetes 🚀
 - [Official Helm Chart](https://github.com/cdr/code-server/tree/v3.8.0/ci/helm-chart)
